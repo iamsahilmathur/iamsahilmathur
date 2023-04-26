@@ -1,6 +1,6 @@
 ## Hello I am Sahil Mathur
 
-- 🔭 Currently working in OBEST Technology
+- 🔭 Currently working in NeoSoft Technology
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/sahil-mathur-826484189/)
